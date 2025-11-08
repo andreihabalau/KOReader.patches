@@ -17,8 +17,8 @@ The version here displays only current time, with 24 hours notation and 0-padded
 ### [🞂 2-reader-header-cornered.lua](2-reader-header-cornered.lua)
 #### [Original link](https://github.com/joshuacant/KOReader.patches/blob/main/2-reader-header-centered.lua)
 Adds header, like the "Status Bar" footer, but at the top left/right corners of the screen.
-- Left corner: Book title
-- Right corner: Chapter title
+- Left corner: Chapter title
+- Right corner: 
 
 ### [🞂 2-statusbar-better-compact](2-statusbar-better-compact.lua) 
 #### [Original link](https://github.com/sebdelsol/KOReader.patches/blob/main/2-statusbar-better-compact.lua)
@@ -28,8 +28,3 @@ This patch enhances compact mode in the status bar:
 - Provides a better separator for title, chapter, and author when compact mode has no separator
 - Uses memory icon from symbols instead of "M"
 - Replaces Chapter Time to read symbol with Pages Left symbol
-
-### [🞂 2-TOC-title-patch](2-TOC-title-patch.lua)
-#### [Original link](https://gist.github.com/zwim/1edcd34ef8a59166f203d5ee8c08f7e3)
-
-Replaces Table Of Contents with Book Title
