@@ -3,7 +3,7 @@ My personal collection of patches gathered from the internet and modified to sui
 ### [🞂 2-browser-up-folder](2-browser-up-folder.lua)
 #### [Original link](https://github.com/sebdelsol/KOReader.patches/blob/main/2-browser-up-folder.lua)
 
-The Mosaic or list entry to move up a folder has been moved into the title bar: when in a subfolder, the <sub><img src="img/home.svg" style="width:2%; height:auto;"></sub> icon is replaced with an <sub><img src="img/back.top.svg" style="width:2%; height:auto;"></sub> icon.
+The Mosaic or list entry to move up a folder has been moved into the title bar: when in a subfolder.
 
 ### [🞂 2-filemanager-titlebar](2-filemanager-titlebar.lua) 
 #### [Original link](https://github.com/sebdelsol/KOReader.patches/blob/main/2-filemanager-titlebar.lua)
