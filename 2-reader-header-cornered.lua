@@ -122,8 +122,8 @@ ReaderView.paintTo = function(self, bb, x, y)
 
     -- ===========================!!!!!!!!!!!!!!!=========================== -
     -- What you put here will show in the header:
-    local left_corner_header = string.format("%s", book_chapter)
-    local right_corner_header = ""--string.format("%s", book_chapter)
+    local left_corner_header = "" --string.format("%s", book_chapter)
+    local right_corner_header = string.format("%s", book_chapter)
     -- Look up "string.format" in Lua if you need help.
     -- ===========================!!!!!!!!!!!!!!!=========================== -
 

@@ -17,8 +17,8 @@ The version here displays only current time, with 24 hours notation and 0-padded
 ### [🞂 2-reader-header-cornered.lua](2-reader-header-cornered.lua)
 #### [Original link](https://github.com/joshuacant/KOReader.patches/blob/main/2-reader-header-centered.lua)
 Adds header, like the "Status Bar" footer, but at the top left/right corners of the screen.
-- Left corner: Chapter title
-- Right corner: 
+- Left corner: 
+- Right corner: Chapter title
 
 ### [🞂 2-statusbar-better-compact](2-statusbar-better-compact.lua) 
 #### [Original link](https://github.com/sebdelsol/KOReader.patches/blob/main/2-statusbar-better-compact.lua)
